@@ -9,4 +9,5 @@ Yêu cầu nộp:
 Nén toàn bộ vào chung 1 file nén với tên file dạng: MSSV_Họ tên_BTL-TTNT_Tóm tắt tên đề tài.rar
 File nén có kích thước <20MB
 link huấn luyện: https://colab.research.google.com/drive/1vxCkewuHWLGhZ5hvGdLL_S4O9zw5QCmP#scrollTo=uOz3-xz1_PF1
+
 link video thuyết trình: https://www.youtube.com/watch?v=0gWZcha_18U
